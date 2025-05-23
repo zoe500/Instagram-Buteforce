@@ -1,4 +1,4 @@
-target = 'hola'  # Write the name of target
+target = 'lay_la5567'  # Write the name of target
 
 paths = {
     'guessPasswords': "Enter_some_guess_passwords.txt", # The path to gussed password file
